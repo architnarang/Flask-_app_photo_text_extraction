@@ -1,4 +1,4 @@
-# Flask-_app_photo_text_extraction
+# Flask_app_photo_text_extraction
 Baseline Flask framework to extract text from images using tesseract-OCR
 
 Include the path to tesseract-OCR based on the following documentation:
