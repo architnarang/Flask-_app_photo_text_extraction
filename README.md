@@ -6,3 +6,5 @@ https://stackoverflow.com/questions/50655738/how-do-i-resolve-a-tesseractnotfoun
 
 For Mac (insert before starting Flask app):
 pytesseract.pytesseract.tesseract_cmd = '/usr/local/Cellar/tesseract/4.1.1/bin/tesseract' 
+
+Refer README.md within .zip file for further instructions.
