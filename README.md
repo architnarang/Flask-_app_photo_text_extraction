@@ -8,3 +8,6 @@ For Mac (insert before starting Flask app):
 pytesseract.pytesseract.tesseract_cmd = '/usr/local/Cellar/tesseract/4.1.1/bin/tesseract' 
 
 Refer README.md within .zip file for further instructions.
+
+Useful Product Case Study (Nanonets):
+https://nanonets.com/blog/ocr-with-tesseract/
